@@ -1,0 +1,15 @@
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\bin\Debug\net7.0\SomeeDeps.Application.deps.json
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\bin\Debug\net7.0\SomeeDeps.Application.dll
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\bin\Debug\net7.0\SomeeDeps.Application.pdb
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\bin\Debug\net7.0\SomeeDeps.Infrastructure.dll
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\bin\Debug\net7.0\SomeeDeps.Infrastructure.pdb
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.csproj.AssemblyReference.cache
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.AssemblyInfoInputs.cache
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.AssemblyInfo.cs
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.csproj.CoreCompileInputs.cache
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.csproj.CopyComplete
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.dll
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\refint\SomeeDeps.Application.dll
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\SomeeDeps.Application.pdb
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Application\obj\Debug\net7.0\ref\SomeeDeps.Application.dll

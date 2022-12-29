@@ -1,0 +1,32 @@
+@model IEnumerable<TodoViewModel>
+@{
+    ViewData["Title"] = "Todos";
+}
+
+<div class="p-3">
+    <h1 class="mt-2">Todos</h1>
+    <a asp-controller="Todo" asp-action="Create" class="btn btn-outline-primary">Add New Todo</a>
+    <table class="table table-hover mt-2">
+        <thead>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Done</th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@(item.IsDone ? "Done" : "Not Done Yet")</td>
+                    <td>
+                        <form asp-action="Update" asp-route-id="@item.Id" method="post">
+                            <input type="hidden" value="@item.Id"/>
+                            <button type="submit" class="btn btn-success" disabled="@item.IsDone">Done</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

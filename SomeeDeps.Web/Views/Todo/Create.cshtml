@@ -1,0 +1,15 @@
+@model CreateTodoDto
+@{
+    ViewData["Title"] = "Create Todo";
+}
+
+
+<div class="container p-3">
+    <form asp-controller="Todo" asp-action="Create" method="post">
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Title</label>
+            <input type="text" class="form-control" id="exampleInputPassword1" asp-for="Title"/>
+        </div>
+        <button type="submit" class="btn btn-warning">Submit</button>
+    </form>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\bin\Release\net7.0\SomeeDeps.Infrastructure.deps.json
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\bin\Release\net7.0\SomeeDeps.Infrastructure.dll
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\bin\Release\net7.0\SomeeDeps.Infrastructure.pdb
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\SomeeDeps.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\SomeeDeps.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\SomeeDeps.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\SomeeDeps.Infrastructure.AssemblyInfo.cs
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\SomeeDeps.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\SomeeDeps.Infrastructure.dll
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\refint\SomeeDeps.Infrastructure.dll
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\SomeeDeps.Infrastructure.pdb
+C:\Users\soybi\Projects\Learning\SomeeDeps\SomeeDeps.Infrastructure\obj\Release\net7.0\ref\SomeeDeps.Infrastructure.dll
